@@ -1,0 +1,6 @@
+td {
+    padding: 2px 10px;
+}
+th, tr {
+    border-bottom: solid 1px gray;
+}
