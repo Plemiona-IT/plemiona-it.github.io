@@ -1,0 +1,95 @@
+# Wdrożenie Moderatorów
+
+## Wprowadzenie do Kanału Plemiona IT
+
+Plemiona IT – społeczność polskich specjalistów IT, w której dzielimy się wiedzą, analizujemy najnowsze trendy w branży, omawiamy technologie i narzędzia, a także rozmawiamy o wyzwaniach zawodowych i codziennym życiu w IT.  
+
+Naszym celem jest budowanie zaangażowanej społeczności, która wspiera się nawzajem w rozwijaniu kariery, zdobywaniu nowych umiejętności i radzeniu sobie z wyzwaniami w branży technologicznej.
+
+## Role i Oczekiwania
+
+### Prowadzący
+
+#### Przygotowanie do Audycji
+
+- Przygotowuje materiały oraz tematy do omówienia, zapewniając, że są one aktualne i interesujące dla uczestników.
+- Wspiera koordynację zespołu moderatorów, aby upewnić się, że wszystkie aspekty audycji są dopracowane.
+
+#### Zapraszanie Gości
+
+- Kontaktuje się z potencjalnymi gośćmi, planuje szczegóły ich udziału.
+- Organizuje rozmowy z zaproszonymi ekspertami i gośćmi, jeśli są częścią audycji.
+
+#### Prowadzenie Rozmowy
+
+- Wprowadza uczestników w temat audycji, prezentując główne zagadnienia i cele spotkania.
+- Prowadzi dyskusję, zadaje pytania, kieruje rozmową oraz angażuje gości i uczestników w rozmowę.
+
+#### Podsumowanie
+
+- Kończy audycję podsumowaniem kluczowych wniosków, reasumując najważniejsze punkty dyskusji.
+
+#### Promowanie Kanału
+
+- Aktywnie promuje kanał, zachęcając uczestników do przesyłania audycji, subskrypcji oraz udziału w przyszłych audycjach.
+
+### Moderator
+
+#### Nadzór nad Dyskusjami
+
+- Monitoruje rozmowy, dbając o to, aby były one zgodne z tematem audycji oraz regulaminem pokoju.
+- Interweniuje w przypadku naruszeń zasad, zapewniając, że dyskusja pozostaje konstruktywna i zgodna z ustalonymi zasadami.
+
+#### Zarządzanie Konfliktami
+
+- Rozwiązuje spory i nieporozumienia w sposób obiektywny i profesjonalny, utrzymując pozytywną atmosferę w trakcie audycji.
+- Współpracuje z pozostałymi moderatorami oraz prowadzącym w celu efektywnego rozwiązywania problemów.
+
+#### Wsparcie Techniczne
+
+- Moderator musi posiadać aktywne połączenie sieciowe oraz mikrofon.
+- Moderator dołącza do audycji jedynie poprzez aplikację X oraz dołączenie do docelowego pokoju tematycznego.
+- Podczas audycji moderator monitoruje, czy audycja jest nagrywana oraz transmitowana na kanał X oraz YouTube.
+- Moderator korzysta z funkcji do zarządzania uczestnikami (mute, deactivate, ban).
+- Moderator wywołuje uczestników w kolejności „podniesionych rąk” w sposób nieprzerywający wątek dyskusyjny.
+- W przypadku pytań, moderator pomaga uczestnikom, zapewniając płynny przebieg audycji (m.in. aktywuje głos i status uczestników).
+
+#### Interakcja z Uczestnikami
+
+- Zachęca do aktywnego udziału w dyskusji, zadawania pytań i dzielenia się opiniami.
+- Moderuje pytania uczestników oraz ich wkład w rozmowę, aby zapewnić jej płynność i strukturę.
+
+#### Wsparcie w Promocji
+
+- Pomaga w promowaniu kanału poprzez dzielenie się linkami do audycji oraz udostępnianie social mediów kanału PlemionaIT.
+- Moderator bierze aktywny udział w zarządzaniu zaangażowaniem uczestników poprzez zachęcanie do udostępnienia pokoju oraz dołączenia do social mediów Plemiona IT.
+
+#### Przestrzeganie Regulaminu
+
+- Dba o przestrzeganie zasad i norm ustalonych dla pokoju, egzekwując regulamin oraz wprowadzając odpowiednie środki w przypadku naruszeń.
+
+Terminy obecności moderatorów podczas audycji są ustalane indywidualnie.
+
+## Zasady Moderowania Audycji
+
+1. Regulamin obowiązuje wszystkich moderatorów i jest wiążący od momentu rozpoczęcia współpracy.
+2. Moderatorzy zobowiązani są do przestrzegania zasad określonych w niniejszym regulaminie oraz do promowania wartości i misji kanału PlemionaIT.
+3. Moderatorzy są odpowiedzialni za moderowanie dyskusji oraz zarządzanie społecznością na kanale Plemiona IT.
+4. Moderator jest odpowiedzialny za zapewnienie, że dyskusje są merytoryczne, konstruktywne i zgodne z wartościami naszej społeczności.
+5. Moderatorzy powinni dążyć do utrzymania pozytywnej i konstruktywnej atmosfery w trakcie audycji.
+6. Wszelkie działania mające na celu wyciszenie, usunięcie lub zablokowanie użytkowników powinny być podejmowane z należytą ostrożnością i wyłącznie w przypadkach uzasadnionych.
+7. W sytuacjach konfliktowych moderatorzy powinni podejmować próbę rozwiązania problemu w sposób spokojny i sprawiedliwy.
+8. Moderatorzy są zobowiązani do zachowania standardów etycznych podczas wykonywania swoich obowiązków.
+9. Wszelka komunikacja z uczestnikami powinna odbywać się w sposób szanujący godność i prawa innych osób.
+10. Zabronione jest jakiekolwiek zachowanie, które może być uznane za dyskryminujące, obraźliwe lub sprzyjające mowie nienawiści wobec uczestników.
+11. Moderatorzy nie mogą wykorzystywać swojej pozycji do realizowania osobistych korzyści lub celów.
+12. Zabronione jest faworyzowanie jakiejkolwiek grupy uczestników lub osób.
+13. Moderatorzy zobowiązani są do przestrzegania zasad ochrony danych osobowych uczestników.
+14. Wszelkie informacje pozyskane od uczestników mogą być wykorzystywane wyłącznie w celach związanych z prowadzeniem audycji i zarządzaniem społecznością.
+15. Niedopuszczalne jest udostępnianie danych osobowych uczestników osobom trzecim bez wyraźnej zgody zainteresowanych.
+16. Nieprzestrzeganie zasad regulaminu może skutkować ostrzeżeniem, czasowym zawieszeniem lub trwałym usunięciem moderatora z zespołu.
+17. Administrator kanału zastrzega sobie prawo do wprowadzania zmian w regulaminie.
+18. Wszelkie zmiany będą komunikowane moderatorom z odpowiednim wyprzedzeniem.
+19. Moderatorzy są zobowiązani do regularnego zapoznawania się z aktualną wersją regulaminu.
+20. Moderowanie audycji jest równoznaczne z akceptacją niniejszego regulaminu.
+21. Wszelkie kwestie nieuregulowane w regulaminie będą rozstrzygane przez administratora kanału.
