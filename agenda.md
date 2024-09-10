@@ -2,10 +2,10 @@
 
 | Data       | Temat                                                                               | Prowadzący      | Współprow. #1       | Współprow. #2       |
 |------------|-------------------------------------------------------------------------------------|-----------------|---------------------|---------------------|
-| 10.09.2024 | Kariera SRE, DevOps, Platform Engineering. Jak zacząć, jak się uczyć, jak rozwijać? | Piotr Szwed     | Łukasz Bieliński    | Tomasz Cholewa      |
-| 12.09.2024 | Czy AI odbierze pracę inżynierom IT? Szanse i zagrożenia.                           | Marek Gruszecki | Olaf Górski         | Kamil Sijko         |
-| 17.09.2024 | Konsulting. Czym jest, z czym się wiąże, zarobki. Jak zostać Konsultantem?          | Piotr Szwed     | Natalia Onopiuk     | Marek Gruszecki     |
-| 19.09.2024 | Kolektyw IT? Zalety, wyzwania, praktyka.                                            | Piotr Szwed     | Wojciech Kocjan     | Marek Gruszecki     |
+| 17.09.2024 | Kariera SRE, DevOps, Platform Engineering. Jak zacząć, jak się uczyć, jak rozwijać? | Piotr Szwed     | Łukasz Bieliński    | Tomasz Cholewa      |
+| 19.09.2024 | Czy AI odbierze pracę inżynierom IT? Szanse i zagrożenia.                           | Marek Gruszecki | Olaf Górski         | Kamil Sijko         |
+| 24.09.2024 | Konsulting. Czym jest, z czym się wiąże, zarobki. Jak zostać Konsultantem?          | Piotr Szwed     | Natalia Onopiuk     | Marek Gruszecki     |
+| 26.09.2024 | Kolektyw IT? Zalety, wyzwania, praktyka.                                            | Piotr Szwed     | Wojciech Kocjan     | Marek Gruszecki     |
 | TBD        | Jak budować karierę i markę osobistą.                                               |                 |                     |                     |
 | TBD        | Nie rozpraszaj się. Jak dbać o produktywność?                                       |                 |                     |                     |
 | TBD        | W jakie technologie warto zainwestować swój czas?                                   |                 |                     |                     |
