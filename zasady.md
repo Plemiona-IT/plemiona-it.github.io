@@ -26,7 +26,7 @@
 
 4.1. Uczestnicy mają prawo do zachowania swojej anonimowości. Niedozwolone jest wymuszanie ujawnienia danych osobowych przez innych uczestników lub moderatorów.  
 4.2. Zabrania się udostępniania danych osobowych innych osób (np. adresu, numeru telefonu, czy informacji o życiu prywatnym) bez ich wyraźnej zgody.  
-4.3. Uczestnicy mają prawo zgłaszać wszelkie przypadki naruszenia prywatności lub ochrony danych osobowych moderatorom. Takie zgłoszenia będą traktowane priorytetowo i rozpatrywane zgodnie z polityką ochrony danych.
+4.3. Uczestnicy mają prawo zgłaszać wszelkie przypadki naruszenia prywatności lub ochrony danych osobowych moderatorom. 
 
 ## 5. Interakcje z Moderatorami
 
