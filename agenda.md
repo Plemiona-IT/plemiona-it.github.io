@@ -2,11 +2,11 @@
 
 | Data       | Temat                                                                               | Prowadzący      | Współprowadzący #1  | Współprowadzący #2  |
 |------------|-------------------------------------------------------------------------------------|-----------------|---------------------|---------------------|
-| 01.10.2024 | Konsulting. Czym jest, z czym się wiąże, zarobki. Jak zostać Konsultantem?          | Piotr Szwed     | Natalia Onopiuk     | Marek Gruszecki     |
-| 03.10.2024 | Kolektyw IT? Zalety, wyzwania, praktyka.                                            | Piotr Szwed     | Natalia Onopiuk     | Marek Gruszecki     |
-| 15.10.2024 | Jak budować karierę i markę osobistą.                                               |       TBD       |           TBD       |       TBD           |
-| 17.10.2024 | Nie rozpraszaj się. Jak dbać o produktywność?                                       |       TBD       |           TBD       |       TBD           |
-| 29.10.2024 | W jakie technologie warto zainwestować swój czas?                                   |       TBD       |          TBD        |       TBD           |
+| 08.10.2024 | Konsulting. Czym jest, z czym się wiąże, zarobki. Jak zostać Konsultantem?          | Piotr Szwed     | Natalia Onopiuk     | Marek Gruszecki     |
+| 10.10.2024 | Kolektyw IT? Zalety, wyzwania, praktyka.                                            | Piotr Szwed     | Natalia Onopiuk     | Marek Gruszecki     |
+| 22.10.2024 | Gość Specjalny                                                                      |       TBD       |           TBD       |       TBD           |
+| 24.10.2024 | Gość Specjalny                                                                      |       TBD       |           TBD       |       TBD           |
+
 
 # Poprzednie spotkania
 
