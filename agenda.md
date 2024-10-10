@@ -1,11 +1,11 @@
-# Agenda
+![image](https://github.com/user-attachments/assets/e958eea1-b002-420d-9409-0a0e1ad7ece3)# Agenda
 
 | Data       | Temat                                                                               | Prowadzący      | Współprowadzący #1  | Współprowadzący #2  |
 |------------|-------------------------------------------------------------------------------------|-----------------|---------------------|---------------------|
 | 08.10.2024 | Konsulting. Czym jest, z czym się wiąże, zarobki. Jak zostać Konsultantem?          | Piotr Szwed     | Natalia Onopiuk     | Marek Gruszecki     |
-| 10.10.2024 | Kolektyw IT? Zalety, wyzwania, praktyka.                                            | Piotr Szwed     | Natalia Onopiuk     | Marek Gruszecki     |
-| 22.10.2024 | Gość Specjalny                                                                      |       TBD       |           TBD       |       TBD           |
-| 24.10.2024 | Gość Specjalny                                                                      |       TBD       |           TBD       |       TBD           |
+| anulowany  | Kolektyw IT? Zalety, wyzwania, praktyka.                                            | Piotr Szwed     | Natalia Onopiuk     | Marek Gruszecki     |
+| anulowany  | Gość Specjalny                                                                      |       TBD       |           TBD       |       TBD           |
+| anulowany  | Gość Specjalny                                                                      |       TBD       |           TBD       |       TBD           |
 
 
 # Poprzednie spotkania
