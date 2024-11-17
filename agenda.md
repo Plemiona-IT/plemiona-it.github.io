@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e958eea1-b002-420d-9409-0a0e1ad7ece3)# Agenda
+# Agenda
 
 | Data       | Temat                                                                               | Prowadzący      | Współprowadzący #1  | Współprowadzący #2  |
 |------------|-------------------------------------------------------------------------------------|-----------------|---------------------|---------------------|
